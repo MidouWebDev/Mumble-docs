@@ -4,8 +4,8 @@
 
 ## ABOUT
 
+* [Mumble Repository](about/mumblerepository.md)
 * [Reviewers at Mumble](about/mumblereviewers.md)
-* [MUMBLE](about/mumblerepository.md)
 * [Mumble Code of Conduct](about/mumblecommunitycode.md)
 * [Mumble Contributors](about/mumblecontributors.md)
 
