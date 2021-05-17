@@ -6,11 +6,13 @@ description: Who is contributing to Mumble ?
 
 We have a **very active and** **engaged community** that is working on **Mumble**.
 
-Keep in mind the below is not an exhaustive list of all the individuals that help **make Mumble great.** 
+Keep in mind the below is not an exhaustive list of all the individuals that help make MUMBLE great ! 
 
-**Thank you for your support guys and thanks for contributing !**
 
-\*\*\*\*
+
+**Thanks a lot for your support !**
+
+
 
 **Mumble Contributors :** 
 
