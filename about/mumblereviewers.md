@@ -1,50 +1,22 @@
 ---
-description: Who are the Mumble Collaborators ?
+description: Who is reviewing PRs and Issues ?
 ---
 
-# Reviewers at Mumble
+# Mumble Collaborators
 
-[!\[Mumble Community\]\(https://img.shields.io/discord/825371211399692308?label=Mumble%20Community&style=for-the-badge&logo=Discord\)](https://discord.gg/9Du4KUY3dE) [!\[Mumble\]\(https://img.shields.io/badge/Mumble-Live%20Demo-9cf?style=for-the-badge\)](https://www.mumble.dev) [!\[Mumble Repository\]\(https://img.shields.io/badge/Mumble-Repository-orange?style=for-the-badge\)](https://github.com/divanov11/Mumble)
+### **Markdown, Documentation, Email templates:**
 
-[!\[Mumble\]\(https://img.shields.io/badge/Mumble-Live%20Demo-9cf?style=for-the-badge\)](https://www.mumble.dev) [!\[Mumble Repository\]\(https://img.shields.io/badge/Mumble-Repository-orange?style=for-the-badge\)](https://github.com/divanov11/Mumble)
+#### [@Mehdi - MidouWebDev](https://github.com/MidouWebDev)
 
-[https://img.shields.io/badge/Mumble-Live%20Demo-9cf?style=for-the-badge](https://www.mumble.dev)
+### **Frontend, Design :**
 
-After submitting your PR, please tag reviewer\(s\) in your PR message. You can tag anyone below for the following.
+--&gt; _Choose two reviewers :_
 
-[https://discord.com/invite/9Du4KUY3dE](https://discord.com/invite/9Du4KUY3dE)
+#### [@Dennis Ivy](https://github.com/divanov11)
 
-* **Markdown, Documentation, Email templates:**
+#### [@Shahriar Parvez](https://github.com/Mr-spShuvo)
 
-  [@Mehdi - MidouWebDev](https://github.com/MidouWebDev)
+#### [@Cody Seibert](https://github.com/codyseibert)
 
-* **Markdown, Documentation, Email templates:**
-
-  [@MidouWebDev](https://github.com/MidouWebDev)
-
-* **Frontend, Design :**
-
-  --&gt; _Choose two reviewers :_
-
-  [@Dennis Ivy](https://github.com/divanov11)
-
-  [@Shahriar Parvez](https://github.com/Mr-spShuvo)
-
-  [@Cody Seibert](https://github.com/codyseibert)
-
-  [@Mehdi - MidouWebDev](https://github.com/MidouWebDev)
-
-
-
-* **Frontend, Design :**
-
-  --&gt; _Choose two reviewers :_
-
-  [@Dennis Ivy](https://github.com/divanov11)
-
-  [@Shahriar Parvez](https://github.com/Mr-spShuvo)
-
-  [@Cody Seibert](https://github.com/codyseibert)
-
-  [@Mehdi - MidouWebDev](https://github.com/MidouWebDev)
+#### [@Mehdi - MidouWebDev](https://github.com/MidouWebDev)
 

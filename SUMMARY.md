@@ -6,7 +6,7 @@
 
 * [Mumble Repository](about/mumblerepository.md)
 * [Mumble Community](about/mumblecommunitycode.md)
-* [Reviewers at Mumble](about/mumblereviewers.md)
+* [Mumble Collaborators](about/mumblereviewers.md)
 * [Mumble Contributors](about/mumblecontributors.md)
 
 ## CONTRIBUTING
