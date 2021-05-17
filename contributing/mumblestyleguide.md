@@ -1,37 +1,24 @@
-<h1 align="center">
-  🎨 | Mumble Style Guide 
-</h1>
+# 🎨 \| Mumble Style Guide
 
-<div align="center">
-
-<a href="https://discord.gg/9Du4KUY3dE">![Mumble Community](https://img.shields.io/discord/825371211399692308?label=Mumble%20Community&style=for-the-badge&logo=Discord)</a>
-<a href="http://mumble-lp.s3-website-us-west-2.amazonaws.com/">![Mumble UI Kit](https://img.shields.io/badge/Mumble-UI%20Kit-yellow?style=for-the-badge)</a>
-<a href="https://mumble.dev">![Mumble](https://img.shields.io/badge/Mumble-Live%20Demo-9cf?style=for-the-badge)</a>
-<a href="https://github.com/divanov11/Mumble">![Mumble Repository](https://img.shields.io/badge/Mumble-Repository-orange?style=for-the-badge)</a>
-
-
-</div>
-
+ [!\[Mumble Community\]\(https://img.shields.io/discord/825371211399692308?label=Mumble%20Community&style=for-the-badge&logo=Discord\)](https://discord.gg/9Du4KUY3dE) [!\[Mumble UI Kit\]\(https://img.shields.io/badge/Mumble-UI%20Kit-yellow?style=for-the-badge\)](http://mumble-lp.s3-website-us-west-2.amazonaws.com/) [!\[Mumble\]\(https://img.shields.io/badge/Mumble-Live%20Demo-9cf?style=for-the-badge\)](https://mumble.dev) [!\[Mumble Repository\]\(https://img.shields.io/badge/Mumble-Repository-orange?style=for-the-badge\)](https://github.com/divanov11/Mumble)
 
 The main goal of this style guide is providing the contributors a set of instructions about how he should approach writing codes and what are the excepted when a PR has been placed. This guide will walk you through the codebase, conventions, and principles we are currently following. We, the mumble community, do not want to enforce with all kinds of code conventions to anyone, but as the project gets larger, and there are many contributors are joining each days, it'll get quiet messy very quickly unless there is a set of instructions to follow for maintaining the consistency and improving the code readability. We also believe that, having some kinds of conventions to follow is much better than having no conventions at all; without some kinds conventions 100 different people can write code 100 different ways, which will be results in messy codebase. That's why, we are introducing you to the **Mumble Style Guide**. We highly recommends you to go through the guideline time to time. We will keep this file up to date with any changes in projects.
 
-<h2 align="center">Table of Contents</h2>
+## Table of Contents
 
-- [🎭 Mumble CSS Style Guide](#-mumble-css-style-guide)
-  - [📦 Modularity](#-modularity)
-  - [🎹 Pattern and Naming](#-pattern-and-naming)
-  - [🎨 Colors](#-colors)
-  - [✍️ Fonts](#️-fonts)
-  - [🧰 UI Kits](#-ui-kits)
-  - [Stylelint](#stylelint)
-
-
+* [🎭 Mumble CSS Style Guide](mumblestyleguide.md#-mumble-css-style-guide)
+  * [📦 Modularity](mumblestyleguide.md#-modularity)
+  * [🎹 Pattern and Naming](mumblestyleguide.md#-pattern-and-naming)
+  * [🎨 Colors](mumblestyleguide.md#-colors)
+  * [✍️ Fonts](mumblestyleguide.md#️-fonts)
+  * [🧰 UI Kits](mumblestyleguide.md#-ui-kits)
+  * [Stylelint](mumblestyleguide.md#stylelint)
 
 ## 🎭 Mumble CSS Style Guide
 
-The below specifications are all about writing clean and modular css codes for the project. While this is not a hard requirement but we love to see contributors respect to follow the style guides for maintaining the consistency throughout the project. All the styles (css files) live on `frontend/src/styles` directory. On the `styles` directory, you will find `index.css` that imports other stylesheet modules and responsible for applying application-wide the styles. `styles/common` - has all the basic and global plus the common components' stylesheets and `styles/components` - has all components' and pages' stylesheets.
+The below specifications are all about writing clean and modular css codes for the project. While this is not a hard requirement but we love to see contributors respect to follow the style guides for maintaining the consistency throughout the project. All the styles \(css files\) live on `frontend/src/styles` directory. On the `styles` directory, you will find `index.css` that imports other stylesheet modules and responsible for applying application-wide the styles. `styles/common` - has all the basic and global plus the common components' stylesheets and `styles/components` - has all components' and pages' stylesheets.
 
-```sh
+```bash
 |-- styles
 |   |-- common
 |   |-- components
@@ -39,16 +26,16 @@ The below specifications are all about writing clean and modular css codes for t
 
 ### 📦 Modularity
 
-Modularity in CSS provides a guideline-based approach for breaking down pages into generic reusable CSS code. It follows consistent naming conventions and allow us easy to read and maintain. There are several approach to accomplish this like using `css module`, `css in js` and good old `css architecture`. Although, `create-react-app` has the built-in support for **CSS Modules** pattern and **CSS in JS** sounds cool, but there are always some pitfalls to this, which can be extra burden-some to maintain and has a huge learning curve for beginners. That's why we are going to take a different approach. We are going to follow a most popular CSS Architecture called **BEM (Block Element Modifier)** throughout the project. BEM is beginner friendly, has almost zero learning curve. And besides that, it help us do accomplish two more things:
+Modularity in CSS provides a guideline-based approach for breaking down pages into generic reusable CSS code. It follows consistent naming conventions and allow us easy to read and maintain. There are several approach to accomplish this like using `css module`, `css in js` and good old `css architecture`. Although, `create-react-app` has the built-in support for **CSS Modules** pattern and **CSS in JS** sounds cool, but there are always some pitfalls to this, which can be extra burden-some to maintain and has a huge learning curve for beginners. That's why we are going to take a different approach. We are going to follow a most popular CSS Architecture called **BEM \(Block Element Modifier\)** throughout the project. BEM is beginner friendly, has almost zero learning curve. And besides that, it help us do accomplish two more things:
 
-- Provides consistency and no-naming collisions throughout the project and
-- In future, BEM will play a major role when the project will incorporate CSS preprocessor like **SASS** or **PostCSS**.
+* Provides consistency and no-naming collisions throughout the project and
+* In future, BEM will play a major role when the project will incorporate CSS preprocessor like **SASS** or **PostCSS**.
 
 _Inline styles are not recommended to style a components but it can useful for conditional rendering in some cases._
 
 ### 🎹 Pattern and Naming
 
-The Mumble project uses the **Block Element Modifier** methodology (commonly referred to as BEM) which is a popular naming convention for classes in HTML and CSS. BEM provides a modular structure to your CSS project. Because of its unique naming scheme, we won't run into conflicts with other CSS names. Besides that, it helps developers better understand the relationship between the HTML and CSS in a given project. You can learn more about the BEM methodology on [**getbem.com**](http://getbem.com/introduction/).
+The Mumble project uses the **Block Element Modifier** methodology \(commonly referred to as BEM\) which is a popular naming convention for classes in HTML and CSS. BEM provides a modular structure to your CSS project. Because of its unique naming scheme, we won't run into conflicts with other CSS names. Besides that, it helps developers better understand the relationship between the HTML and CSS in a given project. You can learn more about the BEM methodology on [**getbem.com**](http://getbem.com/introduction/).
 
 BEM in Practice:
 
@@ -74,7 +61,7 @@ BEM in Practice:
 
 And the markup will look like this:
 
-```html
+```markup
 <div class="card">
   <span class="card__image"></span>
   <div class="card__content">
@@ -175,13 +162,11 @@ The default font we are going to use is `Poppins`. It's a free font and availabl
 
 ### 🧰 UI Kits
 
-If you're just beginning and want to know about different components that are available to compose a reusable components, (a) either go to `frontend/src/common` folder and explore codes or (b) you can sneak peak a preview of that components by opening `frontend/src/uikit/index.html` on the browser.
+If you're just beginning and want to know about different components that are available to compose a reusable components, \(a\) either go to `frontend/src/common` folder and explore codes or \(b\) you can sneak peak a preview of that components by opening `frontend/src/uikit/index.html` on the browser.
 
-> 🟢 **You can also visit the Mumble UI Kit online** - <a href="http://mumble-lp.s3-website-us-west-2.amazonaws.com/"><img align="center" src="https://img.shields.io/badge/Mumble-UI%20Kit-orange?style=for-the-badge"></a>
+> 🟢 **You can also visit the Mumble UI Kit online** -
 
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/824655741318332426/843776948894171137/mumble-ui-kit.png" width="70%">
-</p>
+![](https://cdn.discordapp.com/attachments/824655741318332426/843776948894171137/mumble-ui-kit.png)
 
 ### Stylelint
 
