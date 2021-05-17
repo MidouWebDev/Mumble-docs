@@ -1,6 +1,8 @@
-# 🎨 \| Mumble Style Guide
+---
+description: "\U0001F3A8 | Mumble Style Guide"
+---
 
- [!\[Mumble Community\]\(https://img.shields.io/discord/825371211399692308?label=Mumble%20Community&style=for-the-badge&logo=Discord\)](https://discord.gg/9Du4KUY3dE) [!\[Mumble UI Kit\]\(https://img.shields.io/badge/Mumble-UI%20Kit-yellow?style=for-the-badge\)](http://mumble-lp.s3-website-us-west-2.amazonaws.com/) [!\[Mumble\]\(https://img.shields.io/badge/Mumble-Live%20Demo-9cf?style=for-the-badge\)](https://mumble.dev) [!\[Mumble Repository\]\(https://img.shields.io/badge/Mumble-Repository-orange?style=for-the-badge\)](https://github.com/divanov11/Mumble)
+# Style Guidelines
 
 The main goal of this style guide is providing the contributors a set of instructions about how he should approach writing codes and what are the excepted when a PR has been placed. This guide will walk you through the codebase, conventions, and principles we are currently following. We, the mumble community, do not want to enforce with all kinds of code conventions to anyone, but as the project gets larger, and there are many contributors are joining each days, it'll get quiet messy very quickly unless there is a set of instructions to follow for maintaining the consistency and improving the code readability. We also believe that, having some kinds of conventions to follow is much better than having no conventions at all; without some kinds conventions 100 different people can write code 100 different ways, which will be results in messy codebase. That's why, we are introducing you to the **Mumble Style Guide**. We highly recommends you to go through the guideline time to time. We will keep this file up to date with any changes in projects.
 

@@ -11,7 +11,7 @@
 
 ## CONTRIBUTING
 
-* [🎨 \| Mumble Style Guide](contributing/mumblestyleguide.md)
+* [Style Guidelines](contributing/mumblestyleguide.md)
 * [Contributing to MUMBLE :](contributing/contributing.md)
 * [🎨 \| Mumble Frontend](contributing/requirements.md)
 * [Security at Mumble](contributing/securityreport.md)
