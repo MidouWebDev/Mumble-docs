@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Intro to Mumble](README.md)
 
 ## ABOUT
 
