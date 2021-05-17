@@ -1,8 +1,8 @@
 ---
-description: What is Mumble ?
+description: Introduction to Mumble & Mumble Docs
 ---
 
-# Intro to Mumble
+# Introduction
 
 Mumble is an Open Source Social Media Platform and Public Forum for Questions and Discussions, built for Developers.
 
