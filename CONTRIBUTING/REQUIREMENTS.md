@@ -9,7 +9,6 @@
 <a href="https://mumble.dev">![Mumble](https://img.shields.io/badge/Mumble-Live%20Demo-9cf?style=for-the-badge)</a>
 <a href="https://github.com/divanov11/Mumble">![Mumble Repository](https://img.shields.io/badge/Mumble-Repository-orange?style=for-the-badge)</a>
 
-
 </div>
 
 ## Requirements :
