@@ -78,7 +78,7 @@ _Preview :_ ![](https://cdn.discordapp.com/attachments/824655741318332426/843776
 
 ![](https://cdn.discordapp.com/attachments/824655741318332426/843784043354259456/project-board.gif)
 
-### So please, while submitting a PR or Issue, make sure to :
+### So please, while submitting a PR or Issue, make sure to add it to the Project Board !
 
-![](https://github.com/MidouWebDev/Mumble-docs/tree/e7e8a918ac17a819790344c72d376133019cf9d5/Contributing%20to%20Mumble/images/activate-project.gif)
+{% embed url="https://github.com/divanov11/Mumble/projects/3" caption="Check the Project Board !" %}
 

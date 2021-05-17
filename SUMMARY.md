@@ -12,7 +12,7 @@
 ## CONTRIBUTING
 
 * [Style Guidelines](contributing/mumblestyleguide.md)
-* [Contributing to MUMBLE :](contributing/contributing.md)
+* [Contributing Guidelines](contributing/contributing.md)
 * [Frontend Requirements](contributing/requirements.md)
 * [Security Issues](contributing/securityreport.md)
 

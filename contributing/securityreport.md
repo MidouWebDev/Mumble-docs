@@ -15,7 +15,7 @@ _You will receive a response from us_ \(Moderators and Git Repo Managers\) _with
 
 ## Join the Mumble Community :
 
-{% embed url="https://discord.gg/9Du4KUY3dE" %}
+{% embed url="https://discord.gg/9Du4KUY3dE" caption="Join the Discord Server !" %}
 
   
 

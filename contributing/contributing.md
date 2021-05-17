@@ -1,12 +1,14 @@
-# Contributing to MUMBLE :
+---
+description: How to contribute ?
+---
 
- [!\[Mumble Community\]\(https://img.shields.io/discord/825371211399692308?label=Mumble%20Community&style=for-the-badge&logo=Discord\)](https://discord.gg/9Du4KUY3dE) [!\[Mumble Repository\]\(https://img.shields.io/badge/Mumble-Repository-orange?style=for-the-badge\)](https://github.com/divanov11/Mumble) [!\[Mumble\]\(https://img.shields.io/badge/Mumble-Live%20Demo-9cf?style=for-the-badge\)](https://mumble.dev) [!\[Mumble UI Kit\]\(https://img.shields.io/badge/Mumble-UI%20Kit-yellow?style=for-the-badge\)](http://mumble-lp.s3-website-us-west-2.amazonaws.com/)
+# Contributing Guidelines
 
 A big welcome and thank you for considering contributing to Mumble! It’s people like you that make it a reality for users in our community.
 
 Reading and following these guidelines will help us make the contribution process easy and effective for everyone involved. It also communicates that you agree to respect the time of the developers managing and developing these open source projects. In return, we will reciprocate that respect by addressing your issue, assessing changes, and helping you finalize your pull requests.
 
-Also if you are looking for a complete style guides, please refer to [**🎨 \| Mumble Style Guide**](https://github.com/MidouWebDev/Mumble-docs/tree/e7e8a918ac17a819790344c72d376133019cf9d5/Contributing%20to%20Mumble/STYLE_GUIDE.md). We highly recommend to go through the guideline before start contributing.
+Also if you are looking for a complete style guides, please refer to [Style Guidelines](mumblestyleguide.md) We highly recommend to go through the guideline before start contributing.
 
 > _**⚠ Those who wants to contribute on the repo, from now, before pushing/committing your changes, please make sure you run command `npm run format` or `yarn format` or use Prettier plugin to automatically format your code. We want to maintain consistency that's why we want to enforce the formatting. It's required!**_
 
@@ -73,9 +75,9 @@ _Preview :_ ![](https://cdn.discordapp.com/attachments/824655741318332426/843776
 
 ![](https://cdn.discordapp.com/attachments/824655741318332426/843784043354259456/project-board.gif)
 
-## So please, while submitting a PR or Issue, make sure to :
+## So please, while submitting a PR or Issue, make sure to add it to the board
 
-![](https://github.com/MidouWebDev/Mumble-docs/tree/e7e8a918ac17a819790344c72d376133019cf9d5/Contributing%20to%20Mumble/images/activate-project.gif)
+{% embed url="https://github.com/divanov11/Mumble/projects/3" caption="Check the Project Board" %}
 
 ## Reviewers :
 
@@ -182,8 +184,6 @@ You can follow along with this video, [Contributing to Mumble](https://youtu.be/
 
 4. After the pull request was merged, fetch it and update the master branch of your fork
 
-![](https://drive.google.com/uc?export=view&id=1H0yeU3gYUfhDu0ukyrElucNlzl2kGDCh)
-
 ## Minor Updates and Pull Requests
 
 * It is advisable, to combine all _minor updates_ in a single pull request to reduce the number of pull requests.
@@ -194,5 +194,5 @@ You can follow along with this video, [Contributing to Mumble](https://youtu.be/
 
 ## Getting Help
 
-Join us in the  and post your question there in the correct category with a descriptive tag.
+Join us in the Discord Server and post your question there in the correct category with a descriptive tag.
 
