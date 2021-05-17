@@ -5,9 +5,9 @@
 ## ABOUT
 
 * [Mumble Repository](about/mumblerepository.md)
-* [Mumble Community](about/mumblecommunitycode.md)
 * [Mumble Collaborators](about/mumblereviewers.md)
 * [Mumble Contributors](about/mumblecontributors.md)
+* [Mumble Community](about/mumblecommunitycode.md)
 
 ## CONTRIBUTING
 
