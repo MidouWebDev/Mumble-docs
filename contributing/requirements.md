@@ -4,8 +4,6 @@ description: "\U0001F3A8 | Mumble Frontend Requirements"
 
 # Frontend Requirements
 
- [!\[Mumble Community\]\(https://img.shields.io/discord/825371211399692308?label=Mumble%20Community&style=for-the-badge&logo=Discord\)](https://discord.gg/9Du4KUY3dE) [!\[Mumble UI Kit\]\(https://img.shields.io/badge/Mumble-UI%20Kit-yellow?style=for-the-badge\)](http://mumble-lp.s3-website-us-west-2.amazonaws.com/) [!\[Mumble\]\(https://img.shields.io/badge/Mumble-Live%20Demo-9cf?style=for-the-badge\)](https://mumble.dev) [!\[Mumble Repository\]\(https://img.shields.io/badge/Mumble-Repository-orange?style=for-the-badge\)](https://github.com/divanov11/Mumble)
-
 ## Requirements :
 
 For development, you will need Node.js and a node global package, NPM or Yarn, installed in your environement along with a text editor of your choice.

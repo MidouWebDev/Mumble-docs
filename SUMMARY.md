@@ -14,7 +14,7 @@
 * [Style Guidelines](contributing/mumblestyleguide.md)
 * [Contributing to MUMBLE :](contributing/contributing.md)
 * [Frontend Requirements](contributing/requirements.md)
-* [Security at Mumble](contributing/securityreport.md)
+* [Security Issues](contributing/securityreport.md)
 
 ## MORE <a id="more-1"></a>
 
