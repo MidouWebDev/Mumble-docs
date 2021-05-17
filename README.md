@@ -47,3 +47,10 @@ The current website structure looks like this :
 |-- MORE
     |-- LICENSE
 ```
+
+### Want to contribute ?
+
+Contributions are made to this repo via Issues and Pull Requests (PRs). A few general guidelines that cover both:
+
+- Search for existing Issues and PRs before creating your own.
+- You're going to edit the file in GitHub, and the result will be in the Mumble Docs website
