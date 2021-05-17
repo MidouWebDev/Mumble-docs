@@ -16,7 +16,7 @@ After submitting your PR, please tag reviewer(s) in your PR message. You can tag
 
 - **Markdown, Documentation, Email templates:** 
 
-   [@Mehdi - MidouWebDev](https://github.com/MidouWebDev)
+   [@MidouWebDev](https://github.com/MidouWebDev)
 
 
 - **Frontend, Design :**
