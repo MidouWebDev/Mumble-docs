@@ -43,7 +43,7 @@ Contributions are made to this repo via Issues and Pull Requests \(PRs\). A few 
 
 [Join the discord server](https://discord.gg/9Du4KUY3dE, "Mumble Discord Server")
 
-[Mumble Repository](https://github.com/divanov11/Mumble,"Mumble Github Repository")
+[Mumble Repository](https://github.com/divanov11/Mumble, "Mumble Github Repository")
 
 [Live Website](https://mumble.dev, "Live website")
 
