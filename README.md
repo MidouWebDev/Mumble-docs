@@ -37,15 +37,15 @@ Contributions are made to this repo via Issues and Pull Requests \(PRs\). A few 
 * Search for existing Issues and PRs before creating your own.
 * You're going to edit the file in GitHub after clicking on "edit on github" in the Mumble Docs Website
 
-{% embed url="https://github.com/MidouWebDev/Mumble-docs" caption="Check the Mumble Documentation Repo" %}
+[Check the Mumble Documentation Repo](https://github.com/MidouWebDev/Mumble-docs, "Mumble Documentation Github")
 
 ## Important links :
 
-{% embed url="https://discord.gg/9Du4KUY3dE" caption="Join the Discord Server" %}
+[Join the discord server](https://discord.gg/9Du4KUY3dE, "Mumble Discord Server")
 
-{% embed url="https://github.com/divanov11/Mumble" caption="The MUMBLE Repository" %}
+[Mumble Repository](https://github.com/divanov11/Mumble,"Mumble Github Repository")
 
-{% embed url="https://mumble.dev" caption="Live website" %}
+[Live Website](https://mumble.dev, "Live website")
 
-{% embed url="http://mumble-lp.s3-website-us-west-2.amazonaws.com/" caption="Mumble UI Kit" %}
+[Mumble UI Kit](http://mumble-lp.s3-website-us-west-2.amazonaws.com/, "Mumble UI Kit")
 
