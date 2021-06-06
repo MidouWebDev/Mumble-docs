@@ -10,24 +10,22 @@ Mumble is an Open Source Social Media Platform and Public Forum for Questions an
 
 ## Mumble Features
 
-- Dark/Light Mode
-- Open Source
-- Create a post
-- Remumble a post (re-post it)
-- Create an article
+* Dark/Light Mode
+* Open Source
+* Create a post
+* Remumble a post \(re-post it\)
+* Create an article
 
 ## Mumble Screenshots
 
-![](.gitbook/assets/login-page-lightmode.png)
-![](.gitbook/assets/profile-page-lightmode.png)
-![](.gitbook/assets/user-feed-lightmode.png)
+![](https://github.com/MidouWebDev/Mumble-docs/tree/29f8ab7570e126d1b1e91538c9100911443988af/.gitbook/assets/login-page-lightmode.png) ![](https://github.com/MidouWebDev/Mumble-docs/tree/29f8ab7570e126d1b1e91538c9100911443988af/.gitbook/assets/profile-page-lightmode.png) ![](https://github.com/MidouWebDev/Mumble-docs/tree/29f8ab7570e126d1b1e91538c9100911443988af/.gitbook/assets/user-feed-lightmode.png)
 
 ## Want to contribute to Mumble ?
 
-Contributions are made to this repo via Issues and Pull Requests (PRs). A few general guidelines that cover both:
+Contributions are made to this repo via Issues and Pull Requests \(PRs\). A few general guidelines that cover both:
 
-- To report security vulnerabilities, please send a message in our discord server.
-- Search for existing Issues and PRs before creating your own.
+* To report security vulnerabilities, please send a message in our discord server.
+* Search for existing Issues and PRs before creating your own.
 
 You can find more informations [here](https://midouwebdev.gitbook.io/mumble-docs/contributing/contributing)
 

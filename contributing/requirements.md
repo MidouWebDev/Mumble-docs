@@ -78,7 +78,7 @@ _Preview :_ ![](https://cdn.discordapp.com/attachments/824655741318332426/843776
 
 ![](https://cdn.discordapp.com/attachments/824655741318332426/843784043354259456/project-board.gif)
 
-### So please, while submitting a PR or Issue, make sure to add it to the Project Board !
+
 
 {% embed url="https://github.com/divanov11/Mumble/projects/3" caption="Check the Project Board !" %}
 
